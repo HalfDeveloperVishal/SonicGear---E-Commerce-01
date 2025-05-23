@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-uj1l-__9albz$)hb5ljud31x-eh-g+4ob02epvq2a_*)fp-k2_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['sonicgear-e-commerce-1.onrender.com', '127.0.0.1']
+ALLOWED_HOSTS = ['sonicgear-e-commerce-01.onrender.com', '127.0.0.1']
 
 
 # Application definition
