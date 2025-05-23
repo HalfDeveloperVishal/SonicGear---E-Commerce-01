@@ -139,3 +139,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 AUTH_USER_MODEL = "Base_app.CustomUser"
 
 LOGOUT_REDIRECT_URL = "/"
+
+CSRF_TRUSTED_ORIGINS = [
+    "https://sonicgear-e-commerce-01.onrender.com",
+]
